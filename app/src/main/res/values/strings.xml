@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Ryaboy-v-07</string>
+    <string name="regstr">Регистрация</string>
+    <string name="helpstr">Помощь</string>
+    <string name="enterstr">Вход</string>
+    <string name="registerstr">Регистрация</string>
+    <string name="famstr">Введите вашу фамилию</string>
+    <string name="namestr">Введите ваше имя</string>
+    <string name="numbstr">Введите ваш контактный номер</string>
+    <string name="politstr">Согласен(-а) с условиями использования \nи политикой конфидециальности</string>
+    <string name="registrstr">Зарегистрироваться</string>
+    <string name="donorimg">TODO</string>
+    <string name="instimg">TODO</string>
+    <string name="helpimg">TODO</string>
+    <string name="regimg">TODO</string>
+    <string name="enterimg">TODO</string>
+    <string name="facebookimg">TODO</string>
+    <string name="twitimg">TODO</string>
+    <string name="whatsimg">TODO</string>
+    <string name="zhertstr">Пожертвовать</string>
+    <string name="bgstr">TextView</string>
+    <string name="Userstr">Алексей Чумаков</string>
+    <string name="Agestr">19 лет</string>
+    <string name="OnlineStstr">В сети</string>
+    <string name="HelpStatus">Нужно срочно 1 положительная группа \nкрови для операции.</string>
+    <string name="blood05str">0,5 литра крови</string>
+    <string name="blood1str">1 литр крови</string>
+    <string name="nextstr">Показать следующего человека</string>
+    <string name="starimg">TODO</string>
+    <string name="helthimg">TODO</string>
+    <string name="mapimg">TODO</string>
+    <string name="noteimg">TODO</string>
+    <string name="photoimg">TODO</string>
+    <string name="emailimg">TODO</string>
+    <string name="backimg">TODO</string>
+    <string name="nextimg">TODO</string>
+</resources>
